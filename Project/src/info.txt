@@ -1,0 +1,3 @@
+loader to load and test weights
+delete_humans to delete background images with humans
+overlay to blend 2 images
